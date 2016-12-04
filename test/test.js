@@ -1,3 +1,4 @@
+const codes = require('input-event-codes')
 const InputEvent = require('../');
 
 const KEY_1 = 2

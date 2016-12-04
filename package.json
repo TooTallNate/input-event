@@ -26,8 +26,6 @@
   },
   "homepage": "https://github.com/song940/input-event#readme",
   "dependencies": {
-    "buffers": "https://github.com/lukeautry/node-buffers/archive/000a9db761d9b2c3e09b52f393d1d5d7d8757a30.tar.gz",
-    "input-event-codes": "^1.0.2",
     "ref-struct": "^1.1.0"
   }
 }
